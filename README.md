@@ -43,4 +43,6 @@ Confirm write changes to disk by selecting Yes.
 Software Selection: Leave default desktop environment (Xfce) and tool selections checked, then click Continue.
 GRUB Boot Loader: When prompted, select Yes to install GRUB, choose /dev/sda as the target device, and continue.
 Once finished, click Continue to reboot. Log in with the credentials created during setup.
-![Image Alt]( )
+![Image Alt](https://github.com/thoro8990-commits/setting-up-home-lab/blob/e81613e7200125a62577e4a96327699625b3e60e/Screenshot%202026-10-06%20204819.png )
+Phrase 4: Then it will finally take you to the login page where you put your default password kali/kali, then it open the kali home page, after that click terminal and input your first command "sudo apt update && upgrade", to make your kali linux up to date
+![Image Alt]()
