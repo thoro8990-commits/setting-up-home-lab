@@ -45,4 +45,4 @@ GRUB Boot Loader: When prompted, select Yes to install GRUB, choose /dev/sda as 
 Once finished, click Continue to reboot. Log in with the credentials created during setup.
 ![Image Alt](https://github.com/thoro8990-commits/setting-up-home-lab/blob/e81613e7200125a62577e4a96327699625b3e60e/Screenshot%202026-10-06%20204819.png )
 Phrase 4: Then it will finally take you to the login page where you put your default password kali/kali, then it open the kali home page, after that click terminal and input your first command "sudo apt update && upgrade", to make your kali linux up to date
-![Image Alt]()
+![Image Alt](https://github.com/thoro8990-commits/setting-up-home-lab/blob/2030a8a3c5e0169143de10f9980b43a88c2c42a9/Screenshot%202026-10-06%20205413.png)
