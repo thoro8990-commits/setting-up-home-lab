@@ -16,3 +16,15 @@ Go to the official Kali Linux download page: kali.org/get-kali
 pick the (Fastest & Easiest): Pre-built Virtual Machine Image, is easier to configure 
 Select the Virtual Machines option.
 Download the VMware 64-bit pre-built image (.7z file).
+![Image Alt](https://github.com/thoro8990-commits/setting-up-home-lab/blob/39e21432abceb21ce62c6a928399d17e6ef6a7a1/Screenshot%202026-10-06%20202749.png)
+Phase 3: Setting Up Kali Linux in VMware
+Method A: Using the Pre-built VMware Image (Recommended)
+Extract the file: Right-click the downloaded .7z file and extract it using 7-Zip or WinRAR.
+Open in VMware:
+Launch VMware Workstation Pro.
+Click File > Open... (or click Open a Virtual Machine).
+Navigate to the extracted folder and select the .vmx configuration file.
+Boot up:
+Click Power on this virtual machine.
+![Image Alt]()
+![Image Alt]()
